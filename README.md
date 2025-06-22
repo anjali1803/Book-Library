@@ -13,3 +13,17 @@ This project is a simple API for managing books using Node.js + Express + Postgr
 1. Create Postgres DB + table
 2. Update DB config in server.js
 3. Run server: `node server.js`
+
+## Book Library API
+Tech: Node.js, Express, PostgreSQL  
+Test: Jest, Supertest  
+
+### Run app
+npm start
+
+### Run tests
+npm test
+
+### Coverage
+See below screenshot
+(![alt text](image.png))  
