@@ -1,0 +1,14 @@
+version: api.keploy.io/v1beta1
+kind: Http
+name: "Add Book Test"
+spec:
+  request:
+    method: POST
+    url: /books
+    body: '{"title":"Test Book","author":"Tester","genre":"Fiction","published_year":2024}'
+    headers:
+      Content-Type: ["application/json"]
+    bodyType: "JSON"
+  response:
+    statusCode: 200
+    bodyType: "JSON"
