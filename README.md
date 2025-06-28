@@ -26,4 +26,7 @@ npm test
 
 ### Coverage
 See below screenshot
-(![alt text](image.png))  
+![alt text](image.png)
+
+### Session 4 :  API Testing with AI & CI/CD Integration
+ ![Screenshot 2025-06-28 092423](https://github.com/user-attachments/assets/a29dae2b-c470-4898-b1e8-96db712af429)
